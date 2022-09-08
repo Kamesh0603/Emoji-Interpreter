@@ -6,7 +6,7 @@ function App() {
   var emojis ={
     "😄":"Smiling",
     "😆":"Laughing",
-    "🎱":"Angry",
+    "🎱":"8-Ball",
     "👍":"Thumbsup",
     "👎":"Thumbsdown",
     "🥇":"Goldmedal",
